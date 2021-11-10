@@ -1,0 +1,9 @@
+{
+  "Topic" : "Sates",
+
+  "list" : [
+          {"Name":"karnataka","Capital":"bangalore","language":"kannada"},
+          {"Name":"goa","Capital":"panjim","language":"konkani"},
+          {"Name":"andhra","Capital":"vizag","language":"telugu"}
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<states>
+
+<state Capital="Bangalore" Language="Kannada" name="Karnataka" id="01"/>
+
+<state Capital="Panaji" Language="konkani" name="Goa" id="02"/>
+
+<state Capital="Vizag" Language="Telugu" name="Andhra Pradesh" id="03"/>
+
+<state Capital="Thiruvananthapuram" Language="Malayalam" name="Kerala" id="04"/>
+
+</states>
